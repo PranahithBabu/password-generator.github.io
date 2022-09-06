@@ -1,0 +1,75 @@
+.container {
+    text-align: center;
+    margin: 2rem;
+    width: fit-content;
+}
+
+h2,p,h6{
+    text-align: left;
+}
+
+h6 {
+    font-style: italic;
+    color: lightslategrey;
+}
+
+#genbtn {
+    width: 15rem;
+    height: 3rem;
+}
+
+button{
+    width: 12rem;
+    height: 2.5rem;
+    text-align: left;
+}
+
+#pass1,#pass2 {
+    text-align: center;
+    width: fit-content;
+    margin: 0.25rem;
+}
+
+#copypara{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: lightcoral;
+}
+
+li {
+    list-style: none;
+    /* font-style: italic; */
+}
+
+#inp {
+    width: 2.5rem;
+    height: 2.5rem;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 0, 38);
+    background-color: rgb(245, 234, 234);
+    border-radius: 0.5rem;
+    font-size: 20px;
+}
+
+#save {
+    display: inline;
+}
+
+#appName {
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    /* background-color: cadetblue; */
+    color: brown;
+}
+
+ul{
+    display:inline-block;
+}
+
+#saveList {
+    font-weight: bold;
+    font-style: italic;
+}
