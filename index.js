@@ -228,7 +228,7 @@ function saveRender(saveCheck) {
     for (let i = 0; i < saveCheck.length; i++) {
         saveItems += `
             <li>
-                <p id="save">${saveCheck[i]} :</p>
+                <p id="save">${saveCheck[i]}:</p>
             </li>
         `
     }
