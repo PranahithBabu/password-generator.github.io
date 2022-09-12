@@ -65,11 +65,14 @@ li {
     color: brown;
 }
 
-ul{
-    display:inline-block;
-}
-
 #saveList {
     font-weight: bold;
     font-style: italic;
+}
+
+#bookmark-list {
+    /* background-color: black; */
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
 }
