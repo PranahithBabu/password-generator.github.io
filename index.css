@@ -39,7 +39,6 @@ button{
 
 li {
     list-style: none;
-    /* font-style: italic; */
 }
 
 #inp {
@@ -61,7 +60,6 @@ li {
     margin: 20px;
     text-align: center;
     border-radius: 20px;
-    /* background-color: cadetblue; */
     color: brown;
 }
 
@@ -71,8 +69,6 @@ li {
 }
 
 #bookmark-list {
-    /* background-color: black; */
     display: flex;
-    /* flex-direction: row; */
     justify-content: center;
 }

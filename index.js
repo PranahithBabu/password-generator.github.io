@@ -162,13 +162,6 @@ pass1btn.addEventListener("click", function() {
             alert("You can choose only one option & that too once")
         }
     }
-
-    // btn.innerHTML = `<button class="btn btn-danger" id="delBtn">CLEAR ALL</button>`
-    // delBtn.addEventListener("click", function() {
-    //     localStorage.clear()
-    //     bookmark = []
-    //     render(bookmark)
-    // })
 })
 
 pass2btn.addEventListener("click", function() {
